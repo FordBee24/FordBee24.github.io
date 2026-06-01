@@ -5,6 +5,7 @@
 Welcome to my portfolio. 
 
 I am currently pursuing a Master of Science in Digital Forensics and Cybersecurity at UMGC. My experience includes forensic imaging, log analysis, digital investigations, threat intelligence, and incident response concepts. 
+
 ## Technical Skills
 
 - FTK Imager 
