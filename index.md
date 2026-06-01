@@ -22,7 +22,7 @@ I am currently pursuing a Master of Science in Digital Forensics and Cybersecuri
 
 ### Forensic Imaging and Evidence Verification 
 
-Coming Soon 
+[View Project](forensic-imaging-and-evidence-verification.html)  
 
 ### Linux Authentication Log Investigation
  
