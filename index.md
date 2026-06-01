@@ -20,15 +20,15 @@ I am currently pursuing a Master of Science in Digital Forensics and Cybersecuri
 
 ## Featured Projects 
 
-### Digital Evidence Imaging
+### Forensic Imaging and Evidence Verification 
 
 Coming Soon 
 
-### Linux Log Analysis 
+### Linux Authentication Log Investigation
  
 Coming Soon 
 
-### Splunk Investigation 
+### Splunk Security Event Analysis
 
 Coming Soon 
 
