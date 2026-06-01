@@ -31,7 +31,7 @@ Coming Soon
 
 Coming Soon 
 
- ### MISP Threat Intelligence Investigation 
+### MISP Threat Intelligence Investigation 
 
  Coming Soon 
 
