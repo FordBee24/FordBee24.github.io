@@ -38,4 +38,4 @@ Coming Soon
 
 ## Contact 
 
-LinkedIn: Coming Soon 
+[LinkedIn](https://linkedin.com/in/brittanyfordham238)
