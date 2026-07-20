@@ -1,7 +1,8 @@
-# Splunk Security Event analysis
+# Forensic Log Analysis Using Splunk
 
 ## Overview
-This project focused on analyzing security events using Splunk tp identify suspicious activity, investigate network traffic, and create alerts based on observed behaviors. The investigation demonstrated how Security and Event Management (SIEM) platform can assist analysts in monitoring and responding to potential security incidents.
+
+This project focused on using Splunk to perform forensic analysis of authentication logs. Basic and advanced search queries were used to investigate SSH activity, identify repeated failed login attempts, detect potential brute-force behavior, and create visualizations that highlighted suspicious authentication patterns.
 
 ## Skills Demonstrated 
 
