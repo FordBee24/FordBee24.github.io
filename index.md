@@ -24,11 +24,11 @@ I am currently pursuing a Master of Science in Digital Forensics and Cybersecuri
 
 [View Project](Forensic-Imaging-and-Evidence-Verification.md)  
 
-### Linux Authentication Log Investigation
+### Linux Log File Investigation
  
 Coming Soon 
 
-### Splunk Security Event Analysis
+### Forensic Log Analysis Using Splunk
 
 [View Project](splunk-security-event-analysis)
 
