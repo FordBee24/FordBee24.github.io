@@ -35,7 +35,7 @@ Examples include:
 
 ### Figure 1. Splunk Dashboard
 
-![Splunk Dashboard](splunk-dashboard.png)
+![Splunk Dashboard](images/splunk-dashboard.png)
 
 The dashboard displays the imported log data used during the investigation.
 
