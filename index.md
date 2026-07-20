@@ -30,7 +30,7 @@ Coming Soon
 
 ### Splunk Security Event Analysis
 
-Coming Soon 
+[View Project](splunk-security-event-analysis)
 
 ### MISP Threat Intelligence Investigation 
 
