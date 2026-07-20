@@ -31,6 +31,30 @@ Examples include:
 - Alert creation
 - Evidence supporting further investigation
 
+## Investigation Highlights
+
+### Figure 1. Splunk Dashboard
+
+![Splunk Dashboard](splunk-dashboard.png)
+
+The dashboard displays the imported log data used during the investigation.
+
+---
+
+### Figure 2. Search Results
+
+![Search Results](splunk-search-results.png)
+
+Search queries were used to identify suspicious IP addresses and unusual network activity.
+
+---
+
+### Figure 3. Alert Configuration
+
+![Alert Configuration](splunk-alert.png)
+
+A custom alert was created to notify analysts when suspicious activity met predefined conditions.
+
 ## Challenges
 
 Briefly describe any challenges encountered while working with Splunk.
@@ -45,6 +69,9 @@ Artifacts included:
 - Search queries
 - Investigation screenshots
 - Alert configuration
+
+## Screenshots
+
 
 ## Key Takeaways
 
