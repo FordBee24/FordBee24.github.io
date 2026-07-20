@@ -49,6 +49,7 @@ The investigation began by identifying and examining several Linux log files, in
 
 ![Linux Log Files](images/log-files.png)
 
+
 ---
 
 ### Figure 2. Viewing file metadata using the `stat` command.
