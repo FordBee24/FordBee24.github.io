@@ -30,7 +30,7 @@ Coming Soon
 
 ### Forensic Log Analysis Using Splunk
 
-[View Project](splunk-security-event-analysis)
+[View Project](forensic-log-analysis-using-splunk)
 
 ### MISP Threat Intelligence Investigation 
 
