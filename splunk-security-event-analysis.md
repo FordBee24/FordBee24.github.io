@@ -57,7 +57,7 @@ Detect multiple failed login attempts from the same IP, use the following: index
 
 ## Challenges
 
-Briefly describe any challenges encountered while working with Splunk.
+Working with large amounts of log data made it challenging to quickly identify relevant security events. Refining search queries and filtering results helped narrow the investigation and improve the accuracy of the findings.
 
 ## Project Artifacts
 
@@ -69,8 +69,6 @@ Artifacts included:
 - Search queries
 - Investigation screenshots
 - Alert configuration
-
-## Screenshots
 
 
 ## Key Takeaways
