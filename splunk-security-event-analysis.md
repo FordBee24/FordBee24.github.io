@@ -57,7 +57,7 @@ Detect multiple failed login attempts from the same IP, use the following: index
 
 ## Challenges
 
-Working with large amounts of log data made it challenging to quickly identify relevant security events. Refining search queries and filtering results helped narrow the investigation and improve the accuracy of the findings.
+One of the biggest challenges during this investigation was working through a large volume of log data to identify activity that was actually relevant to the investigation. Writing effective search queries required some trial and error to narrow the results and focus on suspicious events. This project also reinforced the importance of understanding how to filter logs efficiently and create meaningful alerts that reduce unnecessary results.
 
 ## Project Artifacts
 
