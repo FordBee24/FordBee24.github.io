@@ -43,7 +43,7 @@ The dashboard displays the imported log data used during the investigation.
 
 ### Figure 2. Search Results
 
-![Search Results](SSH-connection.png)
+![Search Results](images/SSH-connection.png)
 
 Search queries were used to identify suspicious IP addresses and unusual network activity.
 
@@ -51,7 +51,7 @@ Search queries were used to identify suspicious IP addresses and unusual network
 
 ### Figure 3. Failed Login Attempt
 
-![Failed Login Attempt](fail-attempt-ip.png)
+![Failed Login Attempt](images/fail-attempt-IP.png)
 
 Detect multiple failed login attempts from the same IP, use the following: index=auth_log "Failed password" | stats count by host
 
