@@ -43,17 +43,17 @@ The dashboard displays the imported log data used during the investigation.
 
 ### Figure 2. Search Results
 
-![Search Results](splunk-search-results.png)
+![Search Results](SSH-connection.png)
 
 Search queries were used to identify suspicious IP addresses and unusual network activity.
 
 ---
 
-### Figure 3. Alert Configuration
+### Figure 3. Failed Login Attempt
 
-![Alert Configuration](splunk-alert.png)
+![Failed Login Attempt](fail-attempt-ip.png)
 
-A custom alert was created to notify analysts when suspicious activity met predefined conditions.
+Detect multiple failed login attempts from the same IP, use the following: index=auth_log "Failed password" | stats count by host
 
 ## Challenges
 
