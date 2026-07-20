@@ -26,7 +26,8 @@ I am currently pursuing a Master of Science in Digital Forensics and Cybersecuri
 
 ### Linux Log Analysis and Investigation
  
-Coming Soon 
+[View Project](linux-log-analysis-and-investigation.md)
+
 
 ### Forensic Log Analysis Using Splunk
 
