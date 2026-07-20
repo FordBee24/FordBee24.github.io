@@ -47,25 +47,25 @@ The investigation began by identifying and examining several Linux log files, in
 
 ### Figure 1. Linux log files used during the investigation.
 
-![Linux Log Files](images/linux-log-files.png)
+![Linux Log Files](images/log-files.png)
 
 ---
 
 ### Figure 2. Viewing file metadata using the `stat` command.
 
-![File Metadata](images/linux-stat-command.png)
+![File Metadata](images/stat.png)
 
 ---
 
 ### Figure 3. Investigating suspicious IP address activity using `grep`.
 
-![IP Investigation](images/linux-grep-ip.png)
+![IP Investigation](images/grep.png)
 
 ---
 
 ### Figure 4. Analyzing HTTP response codes within the Apache access log.
 
-![HTTP Status Codes](images/linux-http-status-codes.png)
+![HTTP Status Codes](images/access.png)
 
 ## Challenges
 
