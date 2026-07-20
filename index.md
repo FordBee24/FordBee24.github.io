@@ -24,7 +24,7 @@ I am currently pursuing a Master of Science in Digital Forensics and Cybersecuri
 
 [View Project](Forensic-Imaging-and-Evidence-Verification.md)  
 
-### Linux Log File Investigation
+### Linux Log Analysis and Investigation
  
 Coming Soon 
 
