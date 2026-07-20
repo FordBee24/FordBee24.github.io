@@ -1,0 +1,76 @@
+# Linux Log Analysis and Investigation
+
+## Overview
+
+This project focused on analyzing multiple Linux log files to identify authentication activity, investigate suspicious events, and extract meaningful information from system, web server, and application logs. Using native Linux command-line tools, I examined log file metadata, searched for indicators of suspicious activity, analyzed authentication failures, reviewed HTTP response codes, and identified patterns that could indicate potential security issues.
+
+## Skills Demonstrated
+
+- Linux Command Line
+- Log Analysis
+- Authentication Log Investigation
+- Web Server Log Analysis
+- Pattern Recognition
+- Threat Detection
+- Text Processing
+- Digital Forensics
+- Incident Investigation
+
+## Tools Used
+
+- Kali Linux
+- grep
+- wc
+- head
+- tail
+- stat
+- awk
+- sed
+- date
+
+## Investigation Process
+
+The investigation began by identifying and examining several Linux log files, including system logs, authentication logs, Apache access logs, and Apache error logs. File metadata such as size, timestamps, and line counts were collected to better understand each log source. Command-line tools were then used to search for suspicious IP addresses, analyze failed authentication attempts, review session activity, calculate event timing, and examine web server responses. Additional analysis focused on identifying Cron jobs, Apache Tomcat errors, ModSecurity warnings, and HTTP status codes to better understand overall system activity.
+
+## Key Findings
+
+- Examined system, authentication, Apache access, and Apache error logs.
+- Identified repeated authentication failures involving the root account.
+- Located suspicious IP addresses through targeted log searches.
+- Verified that opened and closed user sessions matched during the logging period.
+- Identified successful Cron job executions within the system logs.
+- Detected Apache Tomcat error messages and ModSecurity warnings that could reveal valuable information to an attacker.
+- Analyzed HTTP response codes, including 200, 301, 404, and 429 responses, to identify web server activity and potential scanning behavior.
+- Used Linux command-line utilities to efficiently search, filter, and analyze large log files.
+
+## Screenshots
+
+### Figure 1. Linux log files used during the investigation.
+
+![Linux Log Files](images/linux-log-files.png)
+
+---
+
+### Figure 2. Viewing file metadata using the `stat` command.
+
+![File Metadata](images/linux-stat-command.png)
+
+---
+
+### Figure 3. Investigating suspicious IP address activity using `grep`.
+
+![IP Investigation](images/linux-grep-ip.png)
+
+---
+
+### Figure 4. Analyzing HTTP response codes within the Apache access log.
+
+![HTTP Status Codes](images/linux-http-status-codes.png)
+
+## Challenges
+
+One of the primary challenges during this investigation was working with multiple log formats, each containing different timestamp structures and event types. Selecting the appropriate Linux commands and filtering techniques was important to isolate relevant information while minimizing unnecessary output. This project reinforced the value of combining multiple command-line utilities to efficiently analyze large log files.
+
+## Key Takeaways
+
+This project strengthened my ability to analyze Linux log files using native command-line tools and identify meaningful security events from large datasets. It also improved my understanding of authentication logs, web server activity, and system events while reinforcing the importance of efficient log analysis during digital forensic investigations.
