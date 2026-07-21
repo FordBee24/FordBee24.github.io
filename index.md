@@ -47,11 +47,10 @@ Investigated authentication and security events using Splunk to identify suspici
 ## Certifications
 - Google Cebersecurity Professional Certificate (In Progress)
  
-## Resume 
-[Download My Resume](documents/Brittany_Fordham_SOC_Forensic_Resume.pdf)
 
-## Contact 
 
+## Resume & Contact 
+
+- [Download My Resume](documents/Brittany_Fordham_SOC_Forensic_Resume.pdf)
 - [LinkedIn](https://linkedin.com/in/brittanyfordham238)
-
 - [Email](mailto:Bfordham62@gmail.com)
