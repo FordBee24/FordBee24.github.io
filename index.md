@@ -44,7 +44,7 @@ I am currently pursuing a Master of Science in Digital Forensics and Cybersecuri
 -Google Cebersecurity Professional Certification ( In Progress)
  
 ## Resume 
-
+[Download My Resume ](documents/Brittany_Fordham_SOC_Forensic_Resume.pdf)
 
 ## Contact 
 
