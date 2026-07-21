@@ -52,6 +52,6 @@ Investigated authentication and security events using Splunk to identify suspici
 
 ## Contact 
 
-[LinkedIn](https://linkedin.com/in/brittanyfordham238)
+- [LinkedIn](https://linkedin.com/in/brittanyfordham238)
 
-[Email](mailto:Bfordham62@gmail.com)
+- [Email](mailto:Bfordham62@gmail.com)
