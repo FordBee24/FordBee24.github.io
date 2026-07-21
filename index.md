@@ -34,7 +34,7 @@ I am currently pursuing a Master of Science in Digital Forensics and Cybersecuri
 
 [View Project](forensic-log-analysis-using-splunk)
 
-##Education & Certifications
+## Education & Certifications
 - University of Maryland Global Campus (UMGC)
      - M.S. in Digital Forensics & Cybersecurity (Expected Graduation: Fall 2027)
 - Univeristy of Towson
