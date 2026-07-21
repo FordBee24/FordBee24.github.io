@@ -2,17 +2,18 @@
 
 ## Digital Forensics & Cybersecurity Graduate Student 
 
-Welcome to my portfolio. 
+This portfolio highlights hands-on digital forensic and incident response investigations completed using indistry standard tools and methodologies.
 
-I am currently pursuing a Master of Science in Digital Forensics and Cybersecurity at UMGC. My experience includes forensic imaging, log analysis, digital investigations, threat intelligence, and incident response concepts. 
+I am currently pursuing a Master of Science in Digital Forensics and Cybersecurity at UMGC. My experience includes forensic imaging, log analysis,evidence handling,and incident response investigations. i am seeking opportunities to apply these skills in Digital Forensics and Incident Response.  
 
-## Technical Skills
+## Forensic Tools
 
 - FTK Imager 
 - Autopsy 
 - Splunk 
-- Kali Linux 
-- MISP 
+- Kali Linux
+
+## Investigation Skills
 - Digital Evidence Handling 
 - Chain of Custody 
 - Hash Verification 
@@ -32,6 +33,17 @@ I am currently pursuing a Master of Science in Digital Forensics and Cybersecuri
 ### Forensic Log Analysis Using Splunk
 
 [View Project](forensic-log-analysis-using-splunk)
+
+##Education & Certifications
+- University of Maryland Global Campus (UMGC)
+     - M.S. in Digital Forensics & Cybersecurity (Expected Graduation: Fall 2027)
+- Univeristy of Towson
+    - B.S. in Information of Technology (December 2027)
+ 
+## Certifications
+-Google Cebersecurity Professional Certification ( In Progress)
+ 
+## Resume 
 
 
 ## Contact 
