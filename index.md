@@ -33,9 +33,6 @@ I am currently pursuing a Master of Science in Digital Forensics and Cybersecuri
 
 [View Project](forensic-log-analysis-using-splunk)
 
-### MISP Threat Intelligence Investigation 
-
- Coming Soon 
 
 ## Contact 
 
