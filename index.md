@@ -36,7 +36,7 @@ Analyzed Linux system and web server logs to identify suspicious activity using 
 ### Forensic Log Analysis Using Splunk
 Investigated authentication and security events using Splunk to identify suspicious logon activity and analyze log data.
 
-[View Project](forensic-log-analysis-using-splunk)
+[View Project](forensic-log-analysis-using-splunk.md)
 
 ## Education & Certifications
 - University of Maryland Global Campus (UMGC)
