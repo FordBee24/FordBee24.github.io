@@ -45,8 +45,7 @@ Investigated authentication and security events using Splunk to identify suspici
     - B.S. in Information of Technology
  
 ## Certifications
-- Google Cebersecurity Professional Certificate (In Progress)
- 
+CompTIA Security+ - In Progress
 
 
 ## Resume & Contact 
