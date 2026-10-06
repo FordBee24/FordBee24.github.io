@@ -40,7 +40,7 @@ Investigated authentication and security events using Splunk to identify suspici
 
 ## Education & Certifications
 - University of Maryland Global Campus (UMGC)
-     - M.S. in Digital Forensics & Cybersecurity (Expected Graduation: Fall 2027)
+     - M.S. in Digital Forensics & Cybersecurity (Expected Graduation: May 2027)
 - Univeristy of Towson
     - B.S. in Information of Technology
  
