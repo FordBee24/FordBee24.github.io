@@ -51,6 +51,6 @@ Investigated authentication and security events using Splunk to identify suspici
 
 ## Resume & Contact 
 
-- [Download My Resume](documents/Brittany_Fordham_SOC_Forensic_Resume.pdf)
+- [Download My Resume](documents/Brittany Fordham Cyber_DFIR_Resume.pdf)
 - [LinkedIn](https://linkedin.com/in/brittanyfordham238)
 - [Email](mailto:Bfordham62@gmail.com)
